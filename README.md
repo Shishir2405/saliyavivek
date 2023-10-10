@@ -18,6 +18,8 @@ const vivek = {
 }
 ```
 
+[![](https://visitcount.itsvg.in/api?id=saliyavivek&icon=5&color=12)](https://visitcount.itsvg.in)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Open to connect with different people :)</em>
 
 ---
