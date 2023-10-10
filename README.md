@@ -1,5 +1,5 @@
 <h2> Hi, I'm Vivek Saliya!</h2>
-<p><em>Frontend Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently learning Backend Technologies
+<p><em>Frontend Developer</br>Currently learning Backend Technologies<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: vs2611](https://img.shields.io/twitter/follow/vs2611?style=social)](https://twitter.com/vs2611)
