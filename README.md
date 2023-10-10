@@ -17,6 +17,7 @@ const vivek = {
   database: [MongoDB, SQL],
 }
 ```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1442-blue)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Open to connect with different people :)</em>
 
