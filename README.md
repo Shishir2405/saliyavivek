@@ -1,21 +1,13 @@
-<h2> Hi, I'm Vivek Saliya!</h2>
+# Random Quote Generator
 
-[![Twitter: vs_2611](https://img.shields.io/twitter/follow/vs_2611?style=social)](https://twitter.com/vs_2611)
-[![Linkedin: viveksaliya](https://img.shields.io/badge/-viveksaliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viveksaliya/)](https://www.linkedin.com/in/viveksaliya/)
-[![GitHub saliyavivek](https://img.shields.io/github/followers/saliyavivek?label=follow&style=social)](https://github.com/saliyavivek)
+## An API-based Quote Generator Web Application designed to provide users with a diverse range of quotes for inspiration, motivation, and reflection. 
 
+## With just a few clicks, you can browse through a vast collection of quotes from famous authors, thought leaders, and other inspiring figures.
 
-A little more about me...  
+## Technologies used :
+   1. HTML
+   2. CSS
+   3. JavaScript
 
-```javascript
-const vivek = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript],
-  tools: [Express, Node],
-  database: [MongoDB, SQL],
-}
-```
-
-[![](https://visitcount.itsvg.in/api?id=saliyavivek&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<em><b>Open to connect :)</em>
+## API used :
+   Quote Garden API - https://quote-garden.onrender.com/api/v3/quotes
